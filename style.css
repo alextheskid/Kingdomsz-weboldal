@@ -2,8 +2,7 @@ button{
     background-color: blue ;
     border: none;
     position: absolute;
-    transform: translate(-50%,);
-    top: 8%;
-    left: 47%;
+    top: 7%;
+    left: 43%;
     font-weight: bold;
 }
